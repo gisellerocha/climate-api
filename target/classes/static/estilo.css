@@ -1,0 +1,36 @@
+@charset "ISO-8859-1";
+
+body {
+	background-color: grey;
+	background-image: url("na_rua_na_chuva.jpeg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+h1 {
+	color: lime;
+}
+
+h5 {
+	color: lime;
+}
+
+th {
+	font-family: 'Arial', cursive;
+	color: green;
+}
+
+th:hover {
+	color: green;
+}
+
+td {
+	font-family: 'Arial', cursive;
+	color: #80ff80;
+	text-decoration: underline;
+}
+
+td:hover {
+	font-weight: bold;
+	color: green;
+}
